@@ -1,3 +1,5 @@
+# This is not complete but the idea is ready - 
+# Instead of chosing all the numbers in a row/column, only store length - 1 columns
 def rotateOneLevel(matrix, level):
     """
     This rotates the specified ring level
